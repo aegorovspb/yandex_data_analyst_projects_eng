@@ -8,4 +8,5 @@ Tableau dashboard with correlation between card header and card subject, made a 
 - By number of visits
 - By titles of cards
 
-[![Presentation_01](https://https://github.com/aegorovspb/yandex_data_analyst_projects_eng/blob/main/tableau/dash_board.jpg)](https://github.com/aegorovspb/) 
+[![Presentation_01](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/blob/main/tableau/dash_board.jpg)](https://github.com/aegorovspb/)
+
