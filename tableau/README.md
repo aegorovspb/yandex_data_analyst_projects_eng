@@ -4,8 +4,8 @@
 
 Tableau dashboard with correlation between card header and card subject, made a chart to analyze the peak visits by card subjects. Filters were added:
 
-- by age of visitors
-- by number of visits
-- by titles of cards
+- By age of visitors
+- By number of visits
+- By titles of cards
 
-[![Presentation_01](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/blob/main/tableau/dash_board.ipg)](https://github.com/aegorovspb/)
+[![Presentation_01](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/tableau/dash_board.jpg)](https://github.com/aegorovspb/)
